@@ -4,7 +4,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Dokkus",
-  tagline: "Dokkus are cool",
+  tagline: "Dokkus are cool very",
   favicon: "img/favicon.ico",
 
   future: {
