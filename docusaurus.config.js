@@ -62,8 +62,8 @@ const config = {
     navbar: {
       title: "Dokkus",
       logo: {
-        alt: "Dokkus Logo",
-        src: "img/logo.svg",
+        alt: "My site logo",
+        src: "img/docusaurus-social-card.jpg",
       },
       items: [
         {
@@ -120,6 +120,7 @@ const config = {
             {
               label: "GitHub",
               href: "https://github.com/luismore1ra/TI2025-dokku",
+              position: "right",
             },
           ],
         },
